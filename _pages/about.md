@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href=https://sgsup.asu.edu/>Arizona State University</a>. Tempe, AZ, USA
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic_hlee.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>5515 Lattie F. Coor Hall</p>
