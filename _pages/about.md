@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href=https://sgsup.asu.edu/>Arizona State University</a>. Tempe, AZ, USA
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>5515 Lattie F. Coor Hall</p>
+    <p>976 S. Forest Mall</p>
+    <p>Tempe, AZ 85281</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a <b>Senior Manager at K-water</b> (Korea Water Resources Corporation), also I am currently studying at <b>Arizona State University as a GIS Ph.D Student</b> in Tempe, United States. I am a member of CICI lab advised by prof. Wenwen Li. My research focus on deep learning for geospatial data such as remote sensed images and DEM (digital elevation model) More specifically, my research focuses on incorporating domain knowledge within data-driven models or learning process as an inductive bias, thereby achieving efficient learning from few samples or sparse observations. Also, I would like to research the applications of these techniques in water resources management such as the prediction of water level and dam inflow.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I received a M.S. degree in Computer Sciecne from the KAIST(Korea Advanced Institute of Science & Technology), advised by prof. Kwangyun Wohn.  
