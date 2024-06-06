@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Senior Manager at K-water(Korea Water Resources Corporation), also I am currently studying at Arizona State University as a GIS Ph.D student in Tempe, United States. I am a member of CICI(Cyber Infrastructure and Computational Intelligence) lab advised by [prof. Wenwen Li](https://search.asu.edu/profile/1978357). 
+I am a Senior Manager at K-water(Korea Water Resources Corporation), also I am currently studying at Arizona State University as a GIS Ph.D student in Tempe, United States. I am a member of CICI(Cyber Infrastructure and Computational Intelligence) lab advised by [Dr. Wenwen Li](https://search.asu.edu/profile/1978357). 
 
-My research focus on deep learning for geospatial data, especially satellite image, and its interpretability. Also, I am interested in the applications of deep learning for the water resources management. Currently, I am working on waterbody segmentation using satellite image by deep learning model.
+I am focusing on deep learning for geospatial data, especially satellite data, and its interpretability. Also, I am interested in the applications of deep learning for the water resources management. Currently, I am working on waterbody segmentation using satellite data based on deep learning models.
 
 Previously, I received a M.S. degree in Computer Sciecne from the KAIST(Korea Advanced Institute of Science & Technology), advised by prof. Kwangyun Wohn. 
 
