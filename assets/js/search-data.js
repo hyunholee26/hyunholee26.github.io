@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/scholar.google.com/citations?hl=en&user=oOwJeyQAAAAJ&view_op=list_works&sortby=pubdate";
           },
-        },{id: "nav-view-stats",
-          title: "View Stats",
+        },{id: "nav-visitor-stats",
+          title: "visitor stats",
           description: "",
           section: "Navigation",
           handler: () => {
