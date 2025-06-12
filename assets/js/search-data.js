@@ -10,14 +10,14 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/https:/scholar.google.com/citations?hl=en&user=oOwJeyQAAAAJ&view_op=list_works&sortby=pubdate";
           },
         },{id: "nav-visitor-stats",
-          title: "visitor stats",
+          title: "Visitor stats",
           description: "",
           section: "Navigation",
           handler: () => {
