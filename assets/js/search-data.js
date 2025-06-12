@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/scholar.google.com/citations?hl=en&user=oOwJeyQAAAAJ&view_op=list_works&sortby=pubdate";
           },
+        },{id: "nav-view-stats",
+          title: "View Stats",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/statcounter.com/p13143291/?guest=1";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
