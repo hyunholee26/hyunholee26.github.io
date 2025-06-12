@@ -31,4 +31,4 @@ I am a Senior Manager at K-water (Korea Water Resources Corporation), also I am 
 
 I am focusing on deep learning for geospatial data, particularly satellite imagery, with an emphasis on model interpretability. Additionally, I am interested in the applications of deep learning in water resources management. Currently, I am working on waterbody segmentation, including flood detection, using satellite data and deep learning models.
 
-Previously, I received an M.S. degree in Computer Science from KAIST (Korea Advanced Institute of Science and Technology), where I was advised by Professor Kwangyun Wohn.
+Previously, I received an M.S. degree in Computer Science from KAIST (Korea Advanced Institute of Science and Technology), where I was advised by Dr. Kwangyun Wohn.
