@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href=https://sgsup.asu.edu/>Arizona State University</a>. Tempe, AZ, USA
 
