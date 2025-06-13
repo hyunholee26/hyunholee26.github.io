@@ -28,11 +28,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
             },},{id: "news-i-presented-a-poster-titled-advancing-interpretability-of-deep-active-learning-in-flood-mapping-with-multispectral-imagery-at-the-2024-agu-fall-meeting-poster",
           title: '🚀 I presented a poster titled “Advancing Interpretability of Deep Active Learning in...',
           description: "",
