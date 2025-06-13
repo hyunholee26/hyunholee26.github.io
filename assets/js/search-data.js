@@ -28,7 +28,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-presented-a-poster-titled-advancing-interpretability-of-deep-active-learning-in-flood-mapping-with-multispectral-imagery-at-the-2024-agu-fall-meeting",
+            },},{id: "news-first-first-author-paper-published-in-remote-sensing-of-environment-if-11-1",
+          title: '📢 First first-author paper published in Remote Sensing of Environment (IF: 11.1)!',
+          description: "",
+          section: "News",},{id: "news-i-presented-a-poster-titled-advancing-interpretability-of-deep-active-learning-in-flood-mapping-with-multispectral-imagery-at-the-2024-agu-fall-meeting",
           title: '🚀 I presented a poster titled “Advancing Interpretability of Deep Active Learning in...',
           description: "",
           section: "News",},{id: "news-i-received-3rd-place-in-the-2025-aag-remote-sensing-specialty-group-rssg-student-honors-paper-competition",
