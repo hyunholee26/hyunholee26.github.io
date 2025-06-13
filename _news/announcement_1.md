@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-03-25
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+🏅 I received 3rd Place in the 2025 AAG Remote Sensing Specialty Group (RSSG) Student Honors Paper Competition.
