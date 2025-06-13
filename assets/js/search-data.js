@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-first-first-author-paper-published-in-remote-sensing-of-environment-if-11-1",
-          title: '📢 First first-author paper published in Remote Sensing of Environment (IF: 11.1)!',
+            },},{id: "news-my-first-author-paper-has-been-published-in-remote-sensing-of-environment-if-11-1",
+          title: '📢 My first-author paper has been published in Remote Sensing of Environment (IF:...',
           description: "",
           section: "News",},{id: "news-i-have-successfully-passed-the-comprehensive-exam-for-my-phd-program",
           title: '🎉 I have successfully passed the comprehensive exam for my PhD program.',
