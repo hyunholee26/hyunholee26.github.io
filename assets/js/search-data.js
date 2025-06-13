@@ -28,17 +28,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-announcement-3",
           title: 'Announcement_3',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-i-received-3rd-place-in-the-2025-aag-remote-sensing-specialty-group-rssg-student-honors-paper-competition",
+            },},{id: "news-i-presented-a-poster-titled-advancing-interpretability-of-deep-active-learning-in-flood-mapping-with-multispectral-imagery-at-the-2024-agu-fall-meeting-poster",
+          title: '🚀 I presented a poster titled “Advancing Interpretability of Deep Active Learning in...',
+          description: "",
+          section: "News",},{id: "news-i-received-3rd-place-in-the-2025-aag-remote-sensing-specialty-group-rssg-student-honors-paper-competition",
           title: '🏅 I received 3rd Place in the 2025 AAG Remote Sensing Specialty Group...',
           description: "",
           section: "News",},{id: "projects-project-1",
