@@ -44,7 +44,7 @@ ninja.data = [{
           title: '📢 Our new preprint “Geospatial Artificial Intelligence for Satellite-Based Flood Extent Mapping: Concepts,...',
           description: "",
           section: "News",},{id: "news-honored-to-be-part-of-the-prithvi-geospatial-ai-foundation-model-team-recipients-of-the-2025-agu-open-science-recognition-prize",
-          title: '🎉 Honored to be part of the Prithvi–Geospatial AI Foundation Model Team, recipients...',
+          title: '🎉 Honored to be part of the Prithvi-Geospatial AI Foundation Model Team, recipients...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
