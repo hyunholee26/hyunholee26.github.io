@@ -61,7 +61,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-a-poster-titled-multimodal-post-flood-water-extent-mapping-with-sar-and-incomplete-multispectral-data-using-a-spatially-masked-adaptive-gated-network-at-the-2025-agu-fall-meeting-in-new-orleans-louisiana",
           title: '🚀 I presented a poster titled “Multimodal Post‑Flood Water Extent Mapping With SAR...',
           description: "",
-          section: "News",},{id: "news-my-first-author-paper-has-been-accepted-in-isprs-journal-of-photogrammetry-and-remote-sensing-if-12-2",
+          section: "News",},{id: "news-my-first-author-paper-has-been-accepted-in-isprs-journal-of-photogrammetry-and-remote-sensing-impact-factor-12-2",
           title: '📢 My first-author paper has been accepted in ISPRS Journal of Photogrammetry and...',
           description: "",
           section: "News",},{id: "projects-project-1",
