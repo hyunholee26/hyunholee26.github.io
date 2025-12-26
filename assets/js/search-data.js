@@ -43,7 +43,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-successfully-passed-the-comprehensive-exam-for-my-phd-program",
           title: '🎉 I have successfully passed the comprehensive exam for my PhD program.',
           description: "",
-          section: "News",},{id: "news-i-presented-a-poster-titled-advancing-interpretability-of-deep-active-learning-in-flood-mapping-with-multispectral-imagery-at-the-2024-agu-fall-meeting",
+          section: "News",},{id: "news-i-presented-a-poster-titled-advancing-interpretability-of-deep-active-learning-in-flood-mapping-with-multispectral-imagery-at-the-2024-agu-fall-meeting-in-washington-d-c",
           title: '🚀 I presented a poster titled “Advancing Interpretability of Deep Active Learning in...',
           description: "",
           section: "News",},{id: "news-i-was-awarded-third-place-in-the-2025-aag-remote-sensing-specialty-group-rssg-student-honors-paper-competition",
