@@ -34,7 +34,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-received-the-2024-anthony-j-brazel-research-award-from-the-school-of-geographical-sciences-and-urban-planning-at-arizona-state-university",
           title: '🎉 I received the 2024 Anthony J. Brazel Research Award from the School...',
           description: "",
-          section: "News",},{id: "news-i-gave-an-oral-presentation-on-deep-active-learning-for-flood-inundation-mapping-with-multispectral-satellite-imagery-at-the-2024-aag-annual-meeting",
+          section: "News",},{id: "news-i-gave-an-oral-presentation-on-deep-active-learning-for-flood-inundation-mapping-with-multispectral-satellite-imagery-at-the-2024-aag-annual-meeting-in-honolulu-hawaii",
           title: '🚀 I gave an oral presentation on “Deep Active Learning for Flood Inundation...',
           description: "",
           section: "News",},{id: "news-my-first-author-paper-has-been-published-in-remote-sensing-of-environment-if-11-1",
