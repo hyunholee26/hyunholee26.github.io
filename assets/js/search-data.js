@@ -68,7 +68,7 @@ ninja.data = [{
           title: '🚀 I gave an oral presentation on “Evaluating Alignment Between GeoAI Explanations and...',
           description: "",
           section: "News",},{id: "news-i-received-the-outstanding-research-award-from-the-graduate-student-government-gsg-at-arizona-state-university",
-          title: '🏆 I received the Outstanding Research Award from the Graduate Student Government (GSG)...',
+          title: '🏅 I received the Outstanding Research Award from the Graduate Student Government (GSG)...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
