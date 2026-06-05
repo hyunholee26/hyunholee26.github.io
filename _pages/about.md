@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href=https://sgsup.asu.edu/>Arizona State University</a>. Tempe, AZ, USA
+subtitle: K-water (Korea Water Resources Corporation). Daejeon, Republic of Korea
 
 profile:
   align: right
