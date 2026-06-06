@@ -2,17 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: K-water (Korea Water Resources Corporation). Daejeon, Republic of Korea
+subtitle: <a href="https://www.kwater.or.kr/eng/main.do">K-water (Korea Water Resources Corporation)</a>. Daejeon, Republic of Korea
 
 profile:
   align: right
   image: hlee_pic1.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5515 Lattie F. Coor Hall</p>
-    <p>976 S. Forest Mall</p>
-    <p>Tempe, AZ 85281</p>
-
+    <p>200 Sintanjin-ro, Daedeok-gu</p>
+    <p>Daejeon, Republic of Korea 34350</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
